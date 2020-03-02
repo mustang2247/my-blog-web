@@ -4,7 +4,7 @@
 import axios from 'axios'
 
 const base = {
-  sq: 'http://localhost:8888',
+  sq: 'http://www.5qipa.com/',
   bd: 'http://localhost:8888'
 }
 
